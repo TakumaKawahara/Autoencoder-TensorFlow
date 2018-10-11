@@ -8,3 +8,5 @@ This is my solution for Udacity DLND project about Autoencoder.
   
 While provided solutions from Udacity use "tensorflow.layers" to construct deep neural network,  
 my solutions use "tensorflow.nn".
+
+![alt text](https://github.com/TakumaKawahara/Autoencoder-TensorFlow/blob/master/Result.png)
